@@ -1,0 +1,119 @@
+
+.prep-time{
+    background-color: hsl(330, 100%, 98%);
+    border-radius: 10px;
+}
+.background{
+    background-color: white;
+    border-radius: 25px;
+    width: 700px;
+    max-width: 900px;
+    margin: auto;
+    padding: 40px;
+}
+
+.image-omelette img{
+    background-color: white;
+    max-width: 800px;
+    width: 600px;
+    border-radius: 10px;
+}
+
+
+
+body{
+    background-color: hsl(30, 54%, 90%);
+}
+
+h1{
+    font-family: "young serif";  
+    font-weight: 300;
+    font-size: 50px;
+}
+
+h3{
+    font-family: young serif;
+    padding-top: 10px;
+    padding-left: 15px;
+    color: hsl(332, 51%, 32%);
+    font-weight: 400;
+}
+
+.p1{
+    font-family: outfit;
+    font-weight: 400;
+
+}
+
+.ul1{
+    background-color: hsl(330, 100%, 98%);
+    padding-left: 40px;
+    padding-bottom: 20px;
+    line-height: 30px;
+    border-radius: 30px;
+}
+
+.Ingredients-recipe{
+    line-height: 30PX;
+}
+
+h2{
+    color: hsl(14, 45%, 36%);
+
+}
+
+.ul-recipe{
+    
+    color:hsl(14, 45%, 36%)
+}
+
+.li1{
+    font-family: outfit;
+    font-weight: ;
+}
+
+.li2{
+    text-align: 10px;
+}
+
+ul{
+    padding-left: 0px;
+}
+
+
+ol{
+    padding-left:0; 
+}
+
+th{
+    color:hsl(14, 45%, 36%);
+    padding: 6px;
+    
+
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+    font-family: outfit;
+}
+
+tr {
+    border-bottom: 1px solid #ccc;
+    
+}
+
+th{
+    padding: 15px;
+}
+
+.attribution{
+    padding-top: 50px;
+    justify-content: center;
+}
+
+.no-border-bottom{
+    border-bottom: none;
+}
+
+
